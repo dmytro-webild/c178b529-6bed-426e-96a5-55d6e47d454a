@@ -155,19 +155,19 @@ export default function LandingPage() {
           plans={[
             {
               id: "basic",              badge: "Boshlang'ich",              badgeIcon: BookOpen,
-              price: "99,000 so'm/oy",              subtitle: "Bir predmet bo'yicha individual dars",              buttons: [{ text: "Ro'yxatdan O'tish", href: "#contact" }],
+              price: "99,000 so'm/oy",              subtitle: "Bir predmet bo'yicha individual dars",              buttons: [{ text: "Bepul Konsultatsiya Oling", href: "#contact" }],
               features: [
                 "Haftada 2 ta dars",                "Har bir dars 60 minut",                "Shaxsiy o'qituvchi",                "Dars materiallarini taqdim etish",                "Uyga vazifa beriladi"],
             },
             {
               id: "pro",              badge: "Mashhur",              badgeIcon: Sparkles,
-              price: "189,000 so'm/oy",              subtitle: "Ikki predmet bo'yicha darslar",              buttons: [{ text: "Hozir Ro'yxatdan O'tish", href: "#contact" }],
+              price: "189,000 so'm/oy",              subtitle: "Ikki predmet bo'yicha darslar",              buttons: [{ text: "Bepul Konsultatsiya Oling", href: "#contact" }],
               features: [
                 "Haftada 4 ta dars (har bir predmet uchun 2)",                "Har bir dars 60 minut",                "Mavzular bo'yicha testlar",                "Bepul konsultatsiya",                "Imtihonga tayyorlash",                "Muvaffaqyyat garantiyasi"],
             },
             {
               id: "premium",              badge: "Eng Yaxshi",              badgeIcon: Crown,
-              price: "299,000 so'm/oy",              subtitle: "Keng dastur - 3 predmet + imtihon tayyorlash",              buttons: [{ text: "Yangilangan Ro'yxat", href: "#contact" }],
+              price: "299,000 so'm/oy",              subtitle: "Keng dastur - 3 predmet + imtihon tayyorlash",              buttons: [{ text: "Bepul Konsultatsiya Oling", href: "#contact" }],
               features: [
                 "Haftada 6 ta dars",                "Har bir dars 90 minut",                "Tugallangan test paketlari",                "Imtihonlarga maxsus tayyorlash",                "Shaxsiy qayd qilish xizmati",                "Haftalik progress amaliyoti",                "Ota-onalar bilan muloqot"],
             },
@@ -200,7 +200,7 @@ export default function LandingPage() {
             name: "message",            placeholder: "Izohlar yoki savollar...",            rows: 4,
             required: false,
           }}
-          buttonText="Ro'yxatdan O'tish"
+          buttonText="Bepul Konsultatsiya Oling"
           useInvertedBackground={true}
           imageSrc="http://img.b2bpic.net/free-photo/cheerful-students-having-conversation_23-2147655798.jpg"
           imageAlt="O'quvchilar darsda hamjamiyat qilayotgan holda"
