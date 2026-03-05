@@ -50,13 +50,13 @@ export default function LandingPage() {
           testimonials={[
             {
               name: "Aziza Karimova",              handle: "Ota-ona",              testimonial: "Talabchan o'qituvchilar, yaxshi dastur, o'zaro hurmat. Nafaqat ilm berish, balki odob berishdan ham erinishmaydi.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/confident-indian-business-woman_53876-139739.jpg"},
+              imageSrc: "http://img.b2bpic.net/free-photo/confident-indian-business-woman_53876-139739.jpg?_wi=1"},
             {
               name: "Timur Abdullaev",              handle: "O'quvchi",              testimonial: "Imtihonlarga tayyorlashda juda ko'p yordam berdi. Endi men oʻz ishimdan ishonchli va tayyorman.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/serious-pensive-young-student-looking-directly-camera_176532-8154.jpg"},
+              imageSrc: "http://img.b2bpic.net/free-photo/serious-pensive-young-student-looking-directly-camera_176532-8154.jpg?_wi=1"},
             {
               name: "Dilorom Nazarova",              handle: "Ota-ona",              testimonial: "Bolamni bu o'quv markaziga juda quyosh va u dastgir ko'rilmoqda. Tavsiya qilaman!",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/young-businesswoman-portrait-office_1262-1506.jpg"},
+              imageSrc: "http://img.b2bpic.net/free-photo/young-businesswoman-portrait-office_1262-1506.jpg?_wi=1"},
           ]}
           imagePosition="right"
           imageSrc="http://img.b2bpic.net/free-photo/young-teen-girls-study-desk-attending-virtual-webinar-class_482257-123130.jpg"
@@ -122,13 +122,13 @@ export default function LandingPage() {
           testimonials={[
             {
               id: "1",              name: "Aziza Karimova",              role: "Ota-ona",              company: "Tashkent",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/confident-indian-business-woman_53876-139739.jpg"},
+              imageSrc: "http://img.b2bpic.net/free-photo/confident-indian-business-woman_53876-139739.jpg?_wi=2"},
             {
               id: "2",              name: "Timur Abdullaev",              role: "O'quvchi, 11-sinf",              company: "Tashkent",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/serious-pensive-young-student-looking-directly-camera_176532-8154.jpg"},
+              imageSrc: "http://img.b2bpic.net/free-photo/serious-pensive-young-student-looking-directly-camera_176532-8154.jpg?_wi=2"},
             {
               id: "3",              name: "Dilorom Nazarova",              role: "Ota-ona",              company: "Sergeli Tumani",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/young-businesswoman-portrait-office_1262-1506.jpg"},
+              imageSrc: "http://img.b2bpic.net/free-photo/young-businesswoman-portrait-office_1262-1506.jpg?_wi=2"},
             {
               id: "4",              name: "Alisher Mirjaev",              role: "O'quvchi, 9-sinf",              company: "Tashkent",              rating: 5,
               imageSrc: "http://img.b2bpic.net/free-photo/hispanic-teenager-wearing-student-backpack-holding-books-smiling-looking-side-staring-away-thinking_839833-3181.jpg"},
